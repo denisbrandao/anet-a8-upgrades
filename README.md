@@ -1,38 +1,36 @@
+# Anet A8 Tutorial de Melhoria
 
-# Anet A8 Upgrade Tutorial
+Este repositório contém todas as atualizações necessárias para 
+aumentar sua qualidade na Anet A8, ordenado por
+prioridade e em uma forma de guia passo a passo para iniciantes, 
+pois foi um pouco difícil encontrar todas as coisas na internet
+para mim.
 
-This repository contains all necessary upgrades for the
-Anet A8 to increase its printing quality, sorted by
-priority and in a form of a step-by-step-for-noobs
-guide as it was a bit hard to find all the things on
-the interwebz for me.
+Esperemos que este guia possa ajudar outros a atualizar suas
+Anet A8 e facilite o processo.
 
-Hopefully this guide can help others upgrading their
-Anet A8 and ease up the process.
+Nota do Tradutor: Este é apenas a tradução do guia https://github.com/cookiengineer/anet-a8-upgrades
+Um excelente guia que ajudou-me muito durante o meu processo de aprendizado.
 
+## Resumo da lista de partes compradas.
 
+Esta é a lista de peças de terceiros que você irá
+precisa comprar para fazer todas as atualizações explicadas neste guia.
 
-## TL;DR Parts List
+- Tubo de PTFE de 2mm / 4mm (comprimento mínimo de 50cm)
+- Correias dentadas GT2 de 2,5 mm (comprimento mínimo de 200 cm)
+- Adaptador pneumático 2x 4mm (alimentação de tubo)
+- 2x motores passo a passo NEMA 17
 
-This is the third-party parts list that you will
-need to buy to do all upgrades explained below
+Nota: O tubo de PTFE precisa ter diâmetro interno
+de 2mm e diâmetro externo de 4mm. Se você quiser
+use diâmetros de filamentos maiores, mude o tamanho do adaptador 
+pneumático de acordo.
 
-- 2mm/4mm PTFE (teflon) tube (min. 50cm length)
-- 2.5mm GT2 timing belts (min. 200cm length)
-- 2x 4mm pneumatic adapter (tube feed)
-- 2x NEMA 17 stepper motors
-
-Note: The PTFE tube needs to have inner diameter
-of 2mm and outer diameter of 4mm. If you want to
-use bigger filament diameters, change the pneumatic
-adapter sizes accordingly.
-
-Important: The Z-Axis stepper motors should be
-replaced with stronger 17-ones, as many users
-(including me) had troubles with a stuck Z-axis
-motor driver that was too weak to liften the
-X-carriage.
-
+Importante: os motores passo a passo de Z devem ser
+substituído por 17 mais fortes, como muitos usuários
+(incluindo eu) teve problemas com um eixo Z preso 
+muito fraco para conduzir o carro X.
 
 ## Step-By-Step Guide
 
